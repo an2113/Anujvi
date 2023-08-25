@@ -2,14 +2,12 @@
 <h1 align="center">Hi 👋, I'm Anuj Vishwakarma</h1>
 <h3 align="center">A passionate Mechanical Engineer from India
 <img align="right" alt="coding" width="200" src="DSC_2913.jpg"
-<h3 align="left"> 💬 Ask me about **😎**
 
 <h3 align="left"> 📫 How to reach me **vishwakarmaanuj79@gmail.com**
 
 -<h3 align="left"> ⚡ Fun fact **I think i am very funny😎**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://fb.com/https://www.facebook.com/vishwakarmaanun79?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vishwakarmaanun79?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/_19_anuj_04_?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_19_anuj_04_?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
 </p>
