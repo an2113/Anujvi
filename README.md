@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuj Vishwakarma</h1>
-<h3 align="center">A passionate Mechanical Engineer from India</h3>
+<h3 align="center">A passionate Mechanical Engineer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=an2113&label=Profile%20views&color=0e75b6&style=flat" alt="an2113" /> </p>
+<h3 align="left"> 💬 Ask me about **😎**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an2113" alt="an2113" /></a> </p>
+<h3 align="left"> 📫 How to reach me **vishwakarmaanuj79@gmail.com**
 
-- 💬 Ask me about **😎**
-
-- 📫 How to reach me **vishwakarmaanuj79@gmail.com**
-
-- ⚡ Fun fact **I think i am very funny😎**
+-<h3 align="left"> ⚡ Fun fact **I think i am very funny😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
