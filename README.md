@@ -1,4 +1,4 @@
-![logo]() 
+![logo](https://github.com/an2113/Anujvi/blob/main/Picsart_23-08-25_08-56-11-685.jpg) 
 <h1 align="center">Hi 👋, I'm Anuj Vishwakarma</h1>
 <h3 align="center">A passionate Mechanical Engineer from India
 <img align="right" alt="coding" width="200" src="DSC_2913.jpg"
