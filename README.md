@@ -1,7 +1,7 @@
 ![logo](https://github.com/an2113/Anujvi/blob/main/Picsart_23-08-25_09-50-34-756.jpg) 
 <h1 align="center">Hi 👋, I'm Anuj Vishwakarma</h1>
 <h3 align="center">A passionate Mechanical Engineer from India
-<img align="right" alt="coding" width="200" src="DSC_2913.jpg"  
+<img align="right" alt="coding" width="200" src="image_processing20210416-21853-1luqd4i.gif"  
 <h3 align="left"> 📫 How to reach me **vishwakarmaanuj79@gmail.com**
 -<h3 align="left"> ⚡ Fun fact **I think i am very funny😎**
 
